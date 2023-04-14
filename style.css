@@ -1,0 +1,29 @@
+*{
+    font-family:Calibri;
+    margin: 10px;
+    padding: 0;
+}
+body{
+    background-color: #d6f9ca;
+}
+.page{
+    width: 400px;
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%); */
+}
+textarea{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+.input-form{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    border: 1px solid green;
+}
